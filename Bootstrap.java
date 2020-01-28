@@ -21,7 +21,7 @@ public class Bootstrap extends SpringBootServletInitializer {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Bootstrap.class, args);
-		System.out.print();
+		print
 	}
 
 	@Override
